@@ -1,4 +1,4 @@
 # Pranav Agrawala
 
-**<u> Resources </u>**
+**<u> RESOURCES </u>**
 
