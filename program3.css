@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: #346094;
+}
+
+form {
+    display: inline-block;
+    width: 80%;
+    height: 70%;
+    background-color: #8a8a8d;
+    font-weight: bold;
+}
